@@ -15,5 +15,7 @@ Required python Modules
 
 6. urllib.request
 
+7. sqlite3
+
 
 Install these before running the Program
