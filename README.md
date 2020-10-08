@@ -3,17 +3,17 @@
 Required python Modules
 
 
-speechrecognition
+1. speechrecognition
 
-pyttsx3
+2. pyttsx3
 
-boltiot
+3. boltiot
 
-os
+4. os
 
-tkinter
+5. tkinter
 
-urllib.request
+6. urllib.request
 
 
-Install it before running the Program
+Install these before running the Program
